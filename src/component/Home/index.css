@@ -1,0 +1,37 @@
+.pizza-container ul {
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    
+    
+}
+
+.pizza-container li {
+    flex: 0 0 30%;
+    /* Adjust the width percentage as needed */
+    /* This will make each image take up 30% of the container's width */
+    /* You can change it to 33.33% if you want exactly three images in one row */
+}
+
+.pizza-container .image {
+    height:200px;
+    width: 200px;
+    
+    border:2px solid black;
+    border-radius: 4px;
+    margin:20px;
+    /* Adjust as needed */
+    /* This will make the images fill their parent <li> elements */
+    /* You can add additional CSS properties for spacing, borders, etc. */
+}
+.add-cart-button{
+    display: block;
+    margin-left: 80px;
+    border:2px solid black;
+    border-radius: 5px;
+    color: blue;
+    background-color: aqua;
+
+}

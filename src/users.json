@@ -1,0 +1,72 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "imageUrl": "6776_Pizza-Dough_ddmfs_4x3_1724-fd91f26e0bd6400a9e89c6866336532b.jpg"
+    },
+    {
+      "id": 2,
+      "imageUrl": "56933159.webp"
+    },
+    {
+      "id": 3,
+      "imageUrl": "best-veggie-pizza-recipe-1.jpg"
+    },
+    {
+      "id": 4,
+      "imageUrl": "best-veggie-pizza-recipe-1.jpg"
+    },
+    {
+      "id": 5,
+      "imageUrl": "classic-cheese-pizza-recipe-2-64429a0cb408b.jpg"
+    },
+    {
+      "id": 6,
+      "imageUrl": "pepperoni-pizza-white-11917489.webp"
+    },
+    {
+      "id": 7,
+      "imageUrl": "pizza-1.avif"
+    },
+    {
+      "id": 8,
+      "imageUrl": "pizza-3007395_1280.jpg"
+    },
+    {
+      "id": 9,
+      "imageUrl": "pizza-recipe-1.jpg"
+    },
+    {
+      "id": 10,
+      "imageUrl": "top-view-pepperoni-pizza-with-mushroom-sausages-bell-pepper-olive-corn-black-wooden_141793-2158.avif"
+    }
+  ],
+  "users": [
+    {},
+    {
+      "id": 1688102786173,
+      "name": "Bandana Solanki",
+      "email": "joe@gmail.com"
+    },
+    {
+      "id": 1688102999545,
+      "name": "Bandana Solanki",
+      "email": "joe@gmail.com"
+    },
+    {
+      "id": 1688103386517,
+      "name": "Bandana Solanki",
+      "email": "joe@gmail.com"
+    },
+    {
+      "id": 1688103519756,
+      "name": "Bandana Solanki",
+      "email": "solankibandana24@gmail.com"
+    },
+    {
+      "id": 1688103691833,
+      "name": "Bandana Solanki",
+      "email": "joe@gmail.com"
+    }
+  ]
+}
